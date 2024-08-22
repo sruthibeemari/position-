@@ -63,7 +63,7 @@ top: 500px;
  }
 .mid{
   width: 400px;
- position: relative;
+ position: absolute;
  left: 27rem;
  bottom: 4rem;
  border-radius: 3%;
